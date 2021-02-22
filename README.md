@@ -1,0 +1,2 @@
+# janken
+python practice
